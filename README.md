@@ -8,4 +8,4 @@ This project represents a 3D model of Haydarpaşa Railway Station in Istanbul cr
 
 Project documentation, renders and video record of the image recognition are available on the [link](https://drive.google.com/drive/u/1/folders/12YGu9vlXsCKNPhUSyPSfDUBABXcgDA9D).
 
-In the "Modeli" folder you can find the APK file and also the image used for image recognition.
+In the "App" folder you can find the APK file and also the image used for image recognition.
