@@ -6,6 +6,6 @@ This project represents a 3D model of Haydarpaşa Railway Station in Istanbul cr
 ![pozadina+Fronta](https://user-images.githubusercontent.com/73425572/174618827-c6f57651-8637-4a52-8bac-abb11c6f67b4.png)
 ![ptičijaPozadinaLijevaStrana](https://user-images.githubusercontent.com/73425572/174618843-1e368d87-60d3-4cfb-9388-5f5f33f593a1.png)
 
-<!-- Due to the size of the files like APK, whole project including project documentation, renders, video record of the image recognition and all the other files are available on the [link](https://drive.google.com/drive/u/1/folders/12YGu9vlXsCKNPhUSyPSfDUBABXcgDA9D). -->
+Due to the size of the files like APK, whole project including project documentation, renders, video record of the image recognition and all the other files are available on the [link](https://drive.google.com/drive/u/1/folders/12YGu9vlXsCKNPhUSyPSfDUBABXcgDA9D).
 
 
